@@ -1,22 +1,10 @@
-# Shopware 5
-
-![Build Status](https://github.com/shopware5/shopware/workflows/PHPUnit/badge.svg)
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/shopware/localized.svg)](https://crowdin.com/project/shopware)
-[![Latest Stable Version](https://poser.pugx.org/shopware/shopware/v/stable)](https://packagist.org/packages/shopware/shopware)
-[![Total Downloads](https://poser.pugx.org/shopware/shopware/downloads)](https://packagist.org/packages/shopware/shopware)
-[![Slack](https://img.shields.io/badge/chat-on%20slack-%23ECB22E)](http://slack.shopware.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-- **License**: GNU General Public License v3 (some used parts have different licenses, which can be found in the respective files or directories)
-- **GitHub Repository**: <https://github.com/shopware5/shopware>
-- **Issues**: <https://github.com/shopware5/shopware/issues>
-
 ## Overview
 
 ![Shopware 5 collage](https://assets.shopware.com/media/github/shopware5_readme.png)
 
-Shopware 5 is an open source e-commerce software made in Germany.
+Shopware is an open source e-commerce software made in Germany.
 Based on technologies like `Symfony 4`, `Doctrine 2` & `Zend Framework` Shopware comes as the perfect platform for your next e-commerce project.
-Furthermore, Shopware 5 provides an event-driven plugin system and an advanced hook system, giving you the ability to customize every part of the platform.
+Furthermore, Shopware provides an event-driven plugin system and an advanced hook system, giving you the ability to customize every part of the platform.
 
 Visit the forum at <https://forum.shopware.com/>
 
