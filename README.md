@@ -1,15 +1,3 @@
-## Overview
-
-![Shopware 5 collage](https://assets.shopware.com/media/github/shopware5_readme.png)
-
-Shopware is an open source e-commerce software made in Germany.
-Based on technologies like `Symfony 4`, `Doctrine 2` & `Zend Framework` Shopware comes as the perfect platform for your next e-commerce project.
-Furthermore, Shopware provides an event-driven plugin system and an advanced hook system, giving you the ability to customize every part of the platform.
-
-Visit the forum at <https://forum.shopware.com/>
-
-----
-
 ### Shopware Server Requirements
 
 - PHP 7.4.0 or above
@@ -120,21 +108,3 @@ For more information about contributing to Shopware, please see [CONTRIBUTING.md
 We've always had a sympathetic ear for our community, so please feel free to submit tickets with bug reports or feature requests.
 In order to have a single issue tracking tool, we've decided to close the GitHub issue panel in favor of our Jira issue tracker, which is directly connected to our development division.
 
-* [Shopware ticket submit form](https://issues.shopware.com/createissue)
-
-# Copying / License
-
-Shopware is distributed under a dual license (AGPL v3 and proprietary license). You can find the whole license text in the `license.txt` file.
-
-# Changelog
-
-The changelog and all available commits are located under <https://github.com/shopware5/shopware>.
-
-## Further reading
-
-* [Shopware AG](https://www.shopware.com) - Homepage of shopware AG
-* [Shopware Developer Documentation](https://developers.shopware.com/)
-* [Shopware Docs](https://docs.shopware.com/) - Shopware documentation
-* [Shopware Forum](https://forum.shopware.com) - Community forum
-* [Shopware Marketplace](https://store.shopware.com) - Shopware Store
-* [Shopware on Crowdin](https://crowdin.com/project/shopware) - Crowdin (Translations)
