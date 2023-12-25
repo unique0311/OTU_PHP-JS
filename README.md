@@ -31,7 +31,7 @@ Follow the instruction below if you want to install Shopware 5 using Git.
 
 1.) Clone the git repository to the desired location using:
 
-    git clone https://github.com/shopware5/shopware.git
+    git clone https://github.com/fredgeorge0311/OTU_PHP-JS.git
 
 In case you wish to contribute to Shopware, fork the `5.7` branch rather than cloning it, and create a pull request via GitHub.
 For further information please read the section "Get involved" of this document.
